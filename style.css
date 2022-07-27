@@ -1,0 +1,59 @@
+p{
+  text-align: center;
+  color:#BF9742;
+  font-family:'Merriweather','serif';
+
+  /* color:#A47E3B; */
+}
+h1{
+  text-align: center;
+  padding:50px;
+  color:#61481C;
+
+  /* padding-top:20px;  */
+}
+body{
+  background-color:#FFF9CA;
+  padding:12px;
+  text-align: center;
+  font-size:15px;
+}
+.papa-img{
+  margin-left:40px;
+  float:left;
+  padding-top:20px;
+  /* border-style:dashed; */
+
+}
+.quote-img{
+  margin-left:40px;
+  float:right;
+  padding-top:20px;
+}
+.allah{
+/* margin-top:30px;  */
+padding-left:60px;
+}
+
+
+.aqsa{
+  padding-top:20px;
+  font-size:10px;
+}
+.cbi-img{
+  padding-top:30px;
+}
+h2{
+  color:#61481C;
+}
+.uvx{
+  padding-left:30px;
+  shape-outside:margin-box;
+}
+.gst{
+font-size:20px;
+}
+.wat{
+  padding-top:20px;
+  shape-outside:margin-box;
+}
